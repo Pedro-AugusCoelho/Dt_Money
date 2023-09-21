@@ -2,34 +2,34 @@
   "transactions": [
     {
       "id": 1,
-      "description": "Desenvolvimento de sites",
+      "description": "Freelancer",
       "type": "income",
       "category": "Venda",
-      "price": 14000,
+      "price": 4000,
       "createdAt": "2023-09-06T13:45:50.505Z"
     },
     {
-      "id": 2,
-      "description": "Desenvolvimento de sites",
-      "type": "income",
-      "category": "Venda",
-      "price": 2000,
-      "createdAt": "2023-09-10T13:45:50.505Z"
+      "description": "Açai",
+      "category": "Alimentação",
+      "price": 80,
+      "type": "outcome",
+      "createdAt": "2023-09-21T18:31:37.965Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "description": "Comida",
+      "description": "Conta de energia",
+      "category": "Casa",
+      "price": 120,
       "type": "outcome",
-      "category": "Alimentação",
-      "price": 60,
-      "createdAt": "2023-09-10T13:45:50.505Z"
+      "createdAt": "2023-09-21T18:32:11.988Z",
+      "id": 3
     },
     {
-      "description": "Hamburguer",
-      "category": "Alimentação",
-      "price": 20,
+      "description": "Calça jeans",
+      "category": "Roupa",
+      "price": 80,
       "type": "outcome",
-      "createdAt": "2023-09-14T01:07:49.252Z",
+      "createdAt": "2023-09-21T18:33:07.760Z",
       "id": 4
     }
   ]
