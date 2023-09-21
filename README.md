@@ -1,27 +1,62 @@
-# React + TypeScript + Vite
+<!--<div align='center'>
+  <img height='200px' alt='Readme' title='Readme' src='./src/assets/ImgShow1.png'>
+  <img height='200px' alt='Readme' title='Readme' src='./src/assets/ImgShow2.png'>
+</div>-->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sobre o projeto 💬
 
-Currently, two official plugins are available:
+O **Dt_Money** é uma aplicação web desenvolvida na Rocketseat, sobre uma aplicação para controle financeiro
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades 🧠
 
-## Expanding the ESLint configuration
+###  📕 A aplicação contém as seguintes funcionalidades:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- [x] Criar transação
+- [x] Listar todas as transações
+- [x] Filtrar as transações
+- [x] Visualizar um resumo sobre as transações (Entradas, Saídas, Total)
 
-- Configure the top-level `parserOptions` property like this:
+## Pré-requisitos
+#### Antes de começar, é bom ter instalado em sua maquina as seguintes ferramentas:
+- [x] [GIT](https://git-scm.com/)
+- [x] [VSCode](https://code.visualstudio.com/)
+- [x] [NodeJs](https://nodejs.org/en/)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+### Rodando o Projeto 📖
+
+```bash
+# Clone para este repositório
+$ git clone https://github.com/Pedro-AugusCoelho/Dt_Money.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Dt_Money
+
+# Instale as dependências
+$ npm install/yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev / yarn dev
+
+# O front iniciará na porta:5173 - acesse <http://127.0.0.1:5173>
+# A api fake iniciará na porta:3000 - acesse <http://127.0.0.1:3000>
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Tecnologias 🛠
+
+Desenvolvido utilizando as seguintes tecnologias:
+
+- [REACT.JS](https://reactjs.org/)
+- [VITE](https://vitejs.dev/)
+- [TYPESCRIPT](https://www.typescriptlang.org/)
+- [STYLED-COMPONENTS](https://styled-components.com/)
+- [PHOSPHOR-REACT](https://phosphoricons.com/)
+- [RADIX-UI](https://www.radix-ui.com/themes/docs/overview/getting-started)
+- [REACT-HOOK-FORM](https://www.react-hook-form.com/)
+- [ZOD](https://zod.dev/)
+- [JSON-SERVER](https://www.npmjs.com/package/json-server)
+- [AXIOS](https://www.npmjs.com/package/axios)
+- [ESLINT](https://eslint.org/)
+
+## Desenvolvido ##
+
+- [Rocketseat](https://www.rocketseat.com.br/index)
