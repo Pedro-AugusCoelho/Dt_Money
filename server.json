@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de sites",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-09-06T13:45:50.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Desenvolvimento de sites",
+      "type": "income",
+      "category": "Venda",
+      "price": 2000,
+      "createdAt": "2023-09-10T13:45:50.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Comida",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-09-10T13:45:50.505Z"
+    },
+    {
+      "description": "Hamburguer",
+      "category": "Alimentação",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2023-09-14T01:07:49.252Z",
+      "id": 4
+    }
+  ]
+}
