@@ -1,7 +1,7 @@
-<!--<div align='center'>
-  <img height='200px' alt='Readme' title='Readme' src='./src/assets/ImgShow1.png'>
-  <img height='200px' alt='Readme' title='Readme' src='./src/assets/ImgShow2.png'>
-</div>-->
+<div align='center'>
+  <img height='300px' alt='' title='Readme' src='./src/assets/ImgShow1.png'>
+  <img height='300px' alt='' title='Readme' src='./src/assets/ImgShow2.png'>
+</div>
 
 # Sobre o projeto 💬
 
